@@ -1,6 +1,6 @@
 # SD-Net-main
 ## Introduction
-This is the official pytorch implementation of "SD-Net: Enhanced Feature Pyramid Network for Deepfake Detection"，which is submitted to The Visual Computer (TVC) 2025.
+This is the official pytorch implementation of "Deepfake Detection via Multi-Scale Feature Pyramid Network with Spatial Attention"，which is submitted to The Visual Computer (TVC) 2025.
 ## Train Dataset
 
 Download **FaceForensics++** from [here](https://github.com/ondyari/FaceForensics) and place it in the `/data` directory.
