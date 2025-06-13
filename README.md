@@ -1,1 +1,1 @@
-# Deepfake Detection via Multi-Scale Feature Pyramid Network with Spatial Attention
+# Exploring Feature Pyramid Networks and Feature Fusion for Generalized Deepfake Detection
